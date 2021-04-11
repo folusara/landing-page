@@ -1,0 +1,605 @@
+#picdiv img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+
+    margin-bottom: 20px;
+    position: relative;
+}
+#picdiv2 img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+
+    margin-bottom: 20px;
+    position: relative;
+    display: none;
+}
+nav div ul{
+    margin-left: 45%;
+    margin-top: 3%;
+}
+
+nav a img{
+   margin-top: 20px;
+}
+li a img{
+    margin-top: -10px;
+ }
+
+li{
+    list-style: none;
+    margin-left: 20px;
+    display: inline;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+#imgdiv{
+    display: flex;
+    flex-direction: row;
+    
+}
+#imgdiv2{
+    display: flex;
+    flex-direction: column;
+}
+#carouselimg2{
+    display: flex;
+    flex-direction: column;
+}
+nav{
+   background-color: white; 
+   padding-bottom: 100px;
+}
+nav img{
+    float: left;
+    margin-top: 20px;
+    margin-left: 100%;
+}
+
+
+#videodiv{
+    display: flex;
+    flex-direction: row;
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-top: 70px;
+    justify-content: space-between;
+}
+#videodiv div img {
+    margin-right: 50px;
+}
+#videodiv div p{
+    text-align: justify;
+    font-size: small;
+    color: rgb(57,68,87);
+    margin-bottom: 30px;
+}
+#videodiv div h4{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+#vidbtn{
+    background-color:rgb(127,221,146);
+    color: white;
+    height: 50px;
+    width: 150px;
+}
+#carousell{
+    display: none;
+ }
+ #carouselExampleIndicators{
+    display: none;
+ }
+ #basic-addon2{
+    background-color: rgb(127,221,146);
+    
+ }
+ #inp{
+    background-color:white;
+     height: 70px;
+ }
+ #inp1{
+    margin-top: 200px;
+    
+    
+}
+#but{
+    display: flex;
+    flex-direction: row;
+    margin-left: 120px;
+    margin-right: 120px;
+    align-content: space-between;
+    justify-content: space-between;
+}
+#officespace{
+    margin-top: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#offer{
+    margin-top: 60px;
+}
+#cardday{
+    color: rgb(57,68,87);
+}
+.card-title{
+    font-size: small;
+    font-weight: 500;
+}
+.card-title1{
+    margin-top: -10px;
+    font-size: small;
+    font-weight: 500;
+}
+.card-text{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: 500;
+}
+
+#linediv{
+    display: flex;
+    flex-direction: row;
+    height: 2px;
+    margin-top: 100px;
+    background-color: rgb(202,205,210);
+}
+#footer{
+    margin-left: 120px;
+    margin-right: 110px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+}
+#footer ul span{
+    margin-left: 50px;
+}
+#footer ul li{
+    margin-left: 50px;
+    color: rgb(57,68,87);
+}
+#fb{
+color: rgb(78,89,143);
+}
+#tw{
+color: rgb(101,162,217);
+}
+#ig{
+    color: rgb(108,39,179);
+}
+#linedivlast{
+    display: flex;
+    flex-direction: row;
+    height: 1px;
+    margin-top: -50px;
+    background-color: rgb(202,205,210);
+}
+#linediv2{
+  
+    height: 2px;
+    margin-top: 0px;
+    background-color: rgb(202,205,210);
+}
+#linediv div h4{
+ font-weight: 900 ;
+ color: rgb(57,68,87);
+}
+#linediv div h6{
+    font-weight: 400 ;
+    color: rgb(57,68,87);
+   }
+hr{
+    margin-left: 1200px;
+    margin-right: 120px;
+    height:2px;
+}
+#progdiv{
+  background-color: rgb(57,68,87);
+  height: 30px;
+  width: 40px;
+  border-radius: 5px;
+}
+#linediv1{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  
+}
+#spann{
+    color: white;
+    margin-left: 11px;
+  margin-top: 6px;
+}
+#flexdiv{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}
+
+#buttomdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 115px;
+}
+#buttomdiv div ul li{
+    display: block;
+    color: rgb(141,151,164);
+    font-size: large;
+    font-weight: 400;
+    margin-top: -25px;
+}
+#buttomdiv div ul{
+
+    margin-left: 10px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+#buttomdiv div ul li:first-child{
+    color: rgb(57,68,87);
+    font-weight: 700;
+}
+#linediv1 div{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.card-text1{
+    margin-top: -15px;
+    font-size: small;
+    font-weight: 500;
+}
+#off{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#off1{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box{
+    height: 50px;
+    width: 250px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(225,225,225);
+    margin-top: 30px;
+}
+#boxcon{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+#restbody  #bot{
+    width: 200px;
+    border-width: 1px;
+    margin-top: 80px;
+    height: 50px;
+    border-style: solid;
+    background-color: white;
+    font-size: large;
+    font-weight: 400;
+    border-color: rgb(225,225,225);
+}
+#restbody  #bot1{
+    width: 200px;
+    border-width: 1px;
+    margin-top: 80px;
+    border-style: solid;
+    font-size: large;
+    font-weight: 300;
+    color: white;
+    background-color:  rgb(127,221,146);
+}
+ #restbody{
+     background-color: rgb(250,250,251);
+     padding-top: 1px;
+     width: 100%;
+ }
+
+ 
+.input-icons i{
+    position: absolute;
+}
+
+#iconn{
+    margin-top: 25px;
+    color: rgb(196,196,196);
+    margin-left: 30px;
+    font-size: x-large;
+}
+#restbody h3{
+    display: none;
+}
+
+
+@media (max-width:375px) {
+    #carousell{
+       display: block;
+       width: 110%;
+    }
+
+    #linedivlast{
+        display: none;
+    }
+
+    #restbody{
+        width: 110%;
+      
+        margin-right: 100px;
+    }
+    .card-title{
+        font-size: large;
+        font-weight: 500;
+        margin-right: -100px;
+        margin-left: -10px;
+    }
+    .card-title1{
+        margin-top: -0px;
+        font-size: large;
+        font-weight: 500;
+        margin-right: -100px;
+        margin-left: -10px;
+    }
+    .card-text{
+        margin-top: -px;
+        font-size: large;
+        font-weight: 500;
+        margin-left: -10px;
+    }
+    .card-text1{
+        margin-top: -17px;
+        font-size: large;
+        margin-right: -30px;
+        font-weight: 500;
+        margin-left: -10px;
+    }
+    #navv{
+        width: 110%;
+    }
+    #imgdiv{
+        display: none;
+    }
+ 
+    #buttomdiv{
+        display: flex;
+        flex-direction: column;
+        margin-top: 130px;
+    }   
+
+#buttomdiv div ul li{
+    display: block;
+    color: rgb(141,151,164);
+    font-size: large;
+    font-weight: 400;
+    margin-top: -15px;
+    margin-left: -50px;
+    line-height: normal;
+}
+#buttomdiv div ul{
+    margin-top: -100px;
+}
+#but{
+    display: none;
+}
+#inp1{
+   display: none;
+}
+#restbody h5{
+    display:block;
+    text-align: justify;
+    text-align: center;
+    color: rgb(57,68,87);
+    font-size: x-large;
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 100px;
+}
+#linediv{
+    display: none;
+}
+
+#linediv2{
+    display: none;
+}
+    #carouselExampleIndicators{
+        display: block;
+       
+     }
+    
+  
+     #off{
+        display: flex;
+        flex-direction: column;
+        margin-left:-90px;
+        
+    }
+    #off1{
+        display: flex;
+        flex-direction: column;
+        margin-left:-90px;
+        
+    }
+    #off div img{
+     width: 20rem;
+    }
+    #off1 div img{
+        width: 20rem;
+       }
+
+       #boxcon{
+        margin-top: -170px;
+        display: flex;
+        flex-direction: column;
+        align-content: space-around;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .box{
+        height: 50px;
+        width: 300px;
+
+        border-style: solid;
+        border-width: 1px;
+    
+    }
+
+    nav a img{
+        margin-left: 10px;
+        width: 100px;
+        height: 30px;
+     }
+
+      #togglerr{
+         margin-left: 167px;  
+        margin-top: 10px;
+        height: 30px;
+        width: 30px;
+      
+     } 
+      #buttonn{
+        padding: 0;
+      
+     } 
+     nav img{
+         
+        margin-top: 20px;
+        margin-left: 5%;
+    }
+    
+    #picdiv2 img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+        display: block;
+        margin-right: -30px;
+        position: relative;
+    }
+        
+    #picdiv img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+        margin-right: -100px;
+        margin-bottom: 20px;
+        position: relative;
+        
+    }
+
+    #footer ul li{
+        display: none;
+    }
+   
+    #footer ul{
+        display: flex;
+        flex-direction: row;
+        margin-top: 70px;
+       margin-left: -500px;
+    }
+    #footer ul span{
+      margin-left: 80px;
+      font-size: x-large;
+    }
+    #videodiv{
+        display: flex;
+        flex-direction: column;
+        width: 65%;
+        margin-left: 30px;
+    
+    }
+    
+
+#videodiv div img {
+   
+    width: 120%;
+}
+#videodiv div p{
+    text-align: justify;
+    font-size: large;
+    margin-right: -50px;
+    color: rgb(57,68,87);
+    margin-bottom: 30px;
+}
+#videodiv div h4{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+#vidbtn{
+    background-color:rgb(127,221,146);
+  
+    height: 60px;
+    width: 250px;
+
+}
+#vidbtn p{
+    font-size: xx-large;
+    color: white;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+   
+    
+    #picdiv img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50px;
+        margin-right: 50px;
+        margin-bottom: 20px;
+        position: relative;
+        display: none;
+    }
+    
+    #flexdiv{
+        display: flex;
+        flex-direction: column;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-top: 60px;
+    }
+    #linediv1{
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+        margin-left:-40px;
+        margin-right: auto;
+      
+    }
+
+    #progdiv{
+        background-color: rgb(57,68,87);
+        height: 40px;
+        width: 60px;
+        border-radius: 5px;
+      
+      }
+
+    #flexdiv #linediv1 h4{
+        font-weight: bold;
+        font-size: x-large;
+        margin-top: -5px;
+    }
+
+    #flexdiv #linediv1 h6{
+        margin-right: -40px;
+        font-weight: 500;
+        font-size: smaller;
+    }
+}
+
+
