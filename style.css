@@ -26,6 +26,10 @@ nav a img{
 li a img{
     margin-top: -10px;
  }
+ #restbody h5{
+    display:none;
+
+}
 
 li{
     list-style: none;
@@ -465,7 +469,7 @@ hr{
         width: 100px;
         height: 30px;
      }
-
+    
       #togglerr{
          margin-left: 167px;  
         margin-top: 10px;
