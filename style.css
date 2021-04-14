@@ -431,13 +431,13 @@ hr{
      #off{
         display: flex;
         flex-direction: column;
-        margin-left:-70px;
+        margin-left:-90px;
         
     }
     #off1{
         display: flex;
         flex-direction: column;
-        margin-left:-70px;
+        margin-left:-90px;
         
     }
     #off div img{
@@ -470,30 +470,39 @@ hr{
         height: 30px;
      }
     
-      #togglerr{
-         margin-left: 167px;  
-        margin-top: 10px;
-        height: 30px;
-        width: 30px;
+    
       
-     } 
-      #buttonn{
-        padding: 0;
-      
-     } 
      nav img{
          
         margin-top: 20px;
         margin-left: 5%;
     }
+
+    #togglerr{
+        margin-left: 100px;  
+       margin-top: 12px;
+       height: 30px;
+       width: 30px;
+       border-width: 0px;
+     
+    } 
+
+    #navbarNav ul{
+        margin-left: 90px;
+    }
+
+    #buttonn{
+        padding: 0;
+      margin-left: 12px;
+     } 
     
     #picdiv2 img {
         height: 50px;
         width: 50px;
         border-radius: 50px;
         display: block;
-        margin-right: -30px;
-        position: relative;
+        
+        /* position: relative; */
     }
         
     #picdiv img {
